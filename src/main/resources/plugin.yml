@@ -1,0 +1,8 @@
+name: MagicXL
+version: @version@
+main: de.erethon.magicxl.MagicXL
+api-version: 1.13
+commands:
+  mxl:
+    description: Reference command for MagicXL.
+    aliases: [magicxl]
